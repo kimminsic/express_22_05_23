@@ -17,7 +17,7 @@ const app = express();
 const port = 3000;
 
 var corsOptions = {
-  origin: "http://cdpn.io",
+  origin: "https://cdpn.io",
   optionsSuccessStatus: 200, // some legacy browsers (IE11, various SmartTVs) choke on 204
 };
 
